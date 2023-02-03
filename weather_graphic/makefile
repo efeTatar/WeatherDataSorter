@@ -15,3 +15,4 @@ clean:
 	
 shell:
 	chmod +x data_filter.sh
+	chmod +x exe
