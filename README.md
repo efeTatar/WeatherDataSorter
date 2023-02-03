@@ -2,6 +2,9 @@
 Second year, first semester computer project by Efe Tatar &amp; Nathan Signoud
 
 ## How to get started
+
+##YOU SHOULD USE THE COMMANDS "make" AND "make shell" 
+
 For the program to work, the user must initially enter "make" in the terminal.
 This has to be done where the makefile is located.
 The data file then must be put in the "resources" directory.
