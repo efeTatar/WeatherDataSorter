@@ -29,3 +29,19 @@ It is possible to choose from 3 sorting algorithms which will be listed below.
   -t or p 1
   -t or p 2
   -t or p 3
+  -w
+  -h
+  -m
+#Sorting type
+  --ABR
+  --AVL
+  --tab
+#Sorting order
+  -r
+
+##Examples
+bash data_filter.sh -f meteo.csv -w         to generate wind vector map of the globe
+bash data_filter.sh -f meteo.csv -F -h      to generate altitude heat map of France
+bash data_filter.sh -f meteo.csv -t2        to generate average temperature graph of the globe
+
+Result images of these are included in the graphics folder and in the pdf file
